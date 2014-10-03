@@ -14,4 +14,7 @@
     "require": {
         "php": ">=5.3"
     }
+	"autload": {
+		"psr-0": {"": "src/"}
+	}
 }
